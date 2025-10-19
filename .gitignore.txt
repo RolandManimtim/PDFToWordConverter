@@ -1,0 +1,13 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build output
+bin/
+obj/
+
+# Others
+*.dbmdl

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Lv6omvXrcq48b9M7VoEIj+nqoh+WslWoWKccxS8sdF4=",
+  "Source": "ConvertPDFToWord",
+  "BasePath": "_content/ConvertPDFToWord",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
