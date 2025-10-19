@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConvertPDFToWord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08db0a98017d43d4b3ec1f6e84115c53cdad5a0c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92af35a75aaf614c0e44fb50e9f2c4e3ca85a5eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConvertPDFToWord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConvertPDFToWord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
