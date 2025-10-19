@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gPxDqCE8Kdg=",
+  "dgSpecHash": "OeIGGSOHCzk=",
   "success": true,
   "projectFilePath": "C:\\Users\\Roland\\Desktop\\Orix\\ConvertPDFToWord\\ConvertPDFToWord\\ConvertPDFToWord.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\Roland\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Roland\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
     "C:\\Users\\Roland\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Roland\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\Roland\\.nuget\\packages\\pkcs11interop\\5.1.2\\pkcs11interop.5.1.2.nupkg.sha512",
     "C:\\Users\\Roland\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
     "C:\\Users\\Roland\\.nuget\\packages\\sautinsoft.pdffocus\\2025.10.17\\sautinsoft.pdffocus.2025.10.17.nupkg.sha512",

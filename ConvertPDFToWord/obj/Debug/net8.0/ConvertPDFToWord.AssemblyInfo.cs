@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("0d371680-5ce9-4cad-8e41-9a61be457ae5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConvertPDFToWord")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45ba2733bf6a1c41426a935f69541dd0b261efbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConvertPDFToWord")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConvertPDFToWord")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
