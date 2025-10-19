@@ -19,7 +19,7 @@ namespace ConvertPDFToWord.Controllers
             if (pdfFile == null || pdfFile.Length == 0)
                 return BadRequest("No PDF file uploaded.");
 
-            SautinSoft.PdfFocus.SetLicense("01/31/266O51E2xbXSSV2jQXDE+zZz5VeizcvawU49");
+            /*SautinSoft.PdfFocus.SetLicense("01/31/266O51E2xbXSSV2jQXDE+zZz5VeizcvawU49");*/
 
             // Save uploaded PDF temporarily
             string pdfPath = System.IO.Path.Combine(System.IO.Path.GetTempPath(), Guid.NewGuid() + ".pdf");

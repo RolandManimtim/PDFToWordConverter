@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Roland\\Desktop\\Orix\\ConvertPDFToWord\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B7121BA-0B0A-442C-89CE-0C4A4C5A3ADE}|ConvertPDFToWord\\ConvertPDFToWord.csproj|c:\\users\\roland\\desktop\\orix\\convertpdftoword\\convertpdftoword\\controllers\\pdftowordconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B7121BA-0B0A-442C-89CE-0C4A4C5A3ADE}|ConvertPDFToWord\\ConvertPDFToWord.csproj|solutionrelative:convertpdftoword\\controllers\\pdftowordconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B7121BA-0B0A-442C-89CE-0C4A4C5A3ADE}|ConvertPDFToWord\\ConvertPDFToWord.csproj|c:\\users\\roland\\desktop\\orix\\convertpdftoword\\convertpdftoword\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7B7121BA-0B0A-442C-89CE-0C4A4C5A3ADE}|ConvertPDFToWord\\ConvertPDFToWord.csproj|solutionrelative:convertpdftoword\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -16,10 +20,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Roland\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B7121BA-0B0A-442C-89CE-0C4A4C5A3ADE}|ConvertPDFToWord\\ConvertPDFToWord.csproj|c:\\users\\roland\\desktop\\orix\\convertpdftoword\\convertpdftoword\\controllers\\pdftowordconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B7121BA-0B0A-442C-89CE-0C4A4C5A3ADE}|ConvertPDFToWord\\ConvertPDFToWord.csproj|solutionrelative:convertpdftoword\\controllers\\pdftowordconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B7121BA-0B0A-442C-89CE-0C4A4C5A3ADE}|ConvertPDFToWord\\ConvertPDFToWord.csproj|c:\\users\\roland\\desktop\\orix\\convertpdftoword\\convertpdftoword\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -44,7 +44,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Roland\\Desktop\\Orix\\ConvertPDFToWord\\ConvertPDFToWord\\Program.cs",
               "RelativeDocumentMoniker": "ConvertPDFToWord\\Program.cs",
@@ -64,12 +64,11 @@
               "RelativeToolTip": "ConvertPDFToWord\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T09:26:10.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T09:26:10.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\Roland\\Desktop\\Orix\\ConvertPDFToWord\\ConvertPDFToWord\\Dockerfile",
               "RelativeDocumentMoniker": "ConvertPDFToWord\\Dockerfile",
@@ -94,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Container.targets",
               "DocumentMoniker": "C:\\Users\\Roland\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\build\\Container.targets",
@@ -117,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ConvertPDFToWord.csproj",
               "DocumentMoniker": "C:\\Users\\Roland\\Desktop\\Orix\\ConvertPDFToWord\\ConvertPDFToWord\\ConvertPDFToWord.csproj",
               "RelativeDocumentMoniker": "ConvertPDFToWord\\ConvertPDFToWord.csproj",
@@ -129,15 +128,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "PDFToWordConverter.cs",
               "DocumentMoniker": "C:\\Users\\Roland\\Desktop\\Orix\\ConvertPDFToWord\\ConvertPDFToWord\\Controllers\\PDFToWordConverter.cs",
               "RelativeDocumentMoniker": "ConvertPDFToWord\\Controllers\\PDFToWordConverter.cs",
               "ToolTip": "C:\\Users\\Roland\\Desktop\\Orix\\ConvertPDFToWord\\ConvertPDFToWord\\Controllers\\PDFToWordConverter.cs",
               "RelativeToolTip": "ConvertPDFToWord\\Controllers\\PDFToWordConverter.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADwAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T10:12:21.482Z"
+              "WhenOpened": "2025-10-18T10:12:21.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
