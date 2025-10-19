@@ -68,3 +68,4 @@ C:\Users\Roland\Desktop\Orix\ConvertPDFToWord\ConvertPDFToWord\obj\Debug\net8.0\
 C:\Users\Roland\Desktop\Orix\ConvertPDFToWord\ConvertPDFToWord\obj\Debug\net8.0\ref\ConvertPDFToWord.dll
 C:\Users\Roland\Desktop\Orix\ConvertPDFToWord\ConvertPDFToWord\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
 C:\Users\Roland\Desktop\Orix\ConvertPDFToWord\ConvertPDFToWord\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Roland\Desktop\Orix\ConvertPDFToWord\ConvertPDFToWord\obj\Debug\net8.0\ConvertPDFToWord.sourcelink.json
